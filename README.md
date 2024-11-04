@@ -1,6 +1,6 @@
 # eserizio git delehope 
 # 4750
-Leggi di Mendel sui piselli gialli (G) e verdi (V)
+Leggi di Mendel sui piselli con alleli gialli (G) e verdi (V)
 
 |   | G           | V           |
 |---|-------------|-------------|
