@@ -6,3 +6,11 @@ Leggi di Mendel sui piselli con alleli gialli (G) e verdi (V)
 |---|-------------|-------------|
 | G | GG = Giallo | GV = Giallo |
 | V | GV = Giallo | VV = Verde  |
+
+i canceletti (hashtag #) hanno la funzione di dimenzione il testo
+# Esempio 
+## Esempio
+### Esempio 
+fino a un totale di 5 ('##### ciao')
+
+
