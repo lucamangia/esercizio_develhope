@@ -12,3 +12,5 @@ i canceletti (hashtag #) hanno la funzione di dimenzione il testo
 ## Esempio
 ### Esempio 
 fino a un totale di 5 ('##### ciao')
+
+Provo a pubblicare questo commit da terminale
