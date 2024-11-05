@@ -27,4 +27,10 @@ I sette re di Roma
 * Tarquinio il Superbo
 <!-- TOC -->
 
-Testo supplementare
+Matrice diagonale 4x4
+
+| 9 |   |   |   |
+|---|---|---|---|
+|   | 9 |   |   |
+|   |   | 9 |   |
+|   |   |   | 9 |
