@@ -1,4 +1,4 @@
-# eserizio git develhope 
+# eserizio git develo 
 # 4750
 Leggi di Mendel sui piselli con alleli gialli (G) e verdi (V)
 
@@ -12,3 +12,5 @@ i canceletti (hashtag #) hanno la funzione di dimenzione il testo
 ## Esempio
 ### Esempio 
 fino a un totale di 5 ('##### ciao')
+Nuovo numerico
+# 123456
