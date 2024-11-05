@@ -14,3 +14,15 @@ i canceletti (hashtag #) hanno la funzione di dimenzione il testo
 fino a un totale di 5 ('##### ciao')
 Nuovo numerico
 # 123456
+
+I sette re di Roma
+<!-- TOC -->
+* Romolo
+  * Tito Tazio
+* Numa Pompilio
+* Tullo Ostilio
+* Anco Marzio
+* Tarquinio Prisco
+* Servio Tullio
+* Tarquinio il Superbo
+<!-- TOC -->
