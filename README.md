@@ -1,4 +1,4 @@
-# eserizio git delehope 
+# eserizio git develhope 
 # 4750
 Leggi di Mendel sui piselli con alleli gialli (G) e verdi (V)
 
