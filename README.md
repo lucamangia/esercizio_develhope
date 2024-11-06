@@ -21,3 +21,6 @@ Prova 3 4 stefano
 
 Ciao, nuova modifca!
 asasaa
+
+
+Nuovo esempio con git rebase 1
